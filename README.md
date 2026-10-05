@@ -39,4 +39,4 @@ npm.cmd run build
 
 ## Demo agent
 
-**Release Guardian** evaluates production deployments using metrics, logs, service context, and deployment history. It recommends whether to continue, pause, or roll back a release while respecting approval and cost policies.
+Release Guardian evaluates production deployments using metrics, logs, service context, and deployment history. It recommends whether to continue, pause, or roll back a release while respecting approval and cost policies.
